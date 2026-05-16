@@ -57,4 +57,3 @@ Ce diagramme illustre la structure des données, l'héritage des comptes et des 
 - [ ] Tests unitaires et d'intégration avec JUnit 5.
 
 ---
-Développé par **Ton Nom** dans le cadre d'une préparation au stage été 2024.
